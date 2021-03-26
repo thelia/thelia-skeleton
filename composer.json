@@ -32,6 +32,7 @@
     "thelia/carousel-module": "dev-main",
     "thelia/free-order-module": "dev-main",
     "thelia/thelia-migrate-country-module": "dev-main",
-    "thelia/hook-admin-home-module": "dev-main"
+    "thelia/hook-admin-home-module": "dev-main",
+    "thelia/web-profiler-module": "dev-main"
   }
 }
