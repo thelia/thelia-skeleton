@@ -4,6 +4,7 @@
   "license": "LGPL-3.0+",
   "require": {
     "thelia/core": "dev-twig",
+    "thelia/flexy": "*",
     "thelia/backoffice-default-template": "dev-main",
     "thelia/email-default-template": "dev-main",
     "thelia/pdf-default-template": "dev-main",
