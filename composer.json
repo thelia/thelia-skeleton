@@ -11,7 +11,7 @@
     "thelia/setup": "dev-main",
     "thelia/config": "dev-main",
     "thelia/twig-engine-module": "*",
-    "thelia/smarty-module": "dev-main",
+    "thelia/smarty-module": "dev-twig",
     "thelia/front-module": "dev-main",
     "thelia/virtual-product-control-module": "dev-main",
     "thelia/virtual-product-delivery-module": "dev-main",
