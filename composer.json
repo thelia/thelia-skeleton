@@ -10,7 +10,7 @@
     "thelia/pdf-default-template": "dev-main",
     "thelia/setup": "dev-main",
     "thelia/config": "dev-main",
-    "thelia/twig-engine-module": "*",
+    "thelia/twig-engine-module": "dev-twig",
     "thelia/smarty-module": "dev-twig",
     "thelia/front-module": "dev-main",
     "thelia/virtual-product-control-module": "dev-main",
