@@ -35,5 +35,14 @@
     "thelia/thelia-migrate-country-module": "dev-main",
     "thelia/hook-admin-home-module": "dev-main",
     "thelia/web-profiler-module": "dev-main"
+  },
+  "extra": {
+      "symfony": {
+          "allow-contrib": true,
+          "endpoint": [
+              "https://api.github.com/repos/YannLe/thelia-test-recipes/contents/index.json?ref=flex/main",
+              "flex://defaults"
+          ]
+      }
   }
 }
