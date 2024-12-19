@@ -9,16 +9,13 @@
     "thelia/email-default-template": "dev-twig",
     "thelia/pdf-default-template": "dev-twig",
     "thelia/twig-engine-module": "dev-twig",
-    "thelia/smarty-module": "dev-twig",
     "thelia/front-module": "dev-main",
     "thelia/virtual-product-control-module": "dev-main",
     "thelia/virtual-product-delivery-module": "dev-main",
-    "thelia/tinymce-module": "dev-main",
     "thelia/cheque-module": "dev-main",
     "thelia/carousel-module": "dev-main",
     "thelia/free-order-module": "dev-main",
-    "thelia/thelia-migrate-country-module": "dev-main",
-    "thelia/web-profiler-module": "dev-main"
+    "thelia/thelia-migrate-country-module": "dev-main"
   },
   "extra": {
       "symfony": {
