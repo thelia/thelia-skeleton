@@ -12,9 +12,7 @@
     "thelia/virtual-product-control-module": "dev-main",
     "thelia/virtual-product-delivery-module": "dev-main",
     "thelia/cheque-module": "dev-main",
-    "thelia/carousel-module": "dev-main",
-    "thelia/free-order-module": "dev-main",
-    "thelia/thelia-migrate-country-module": "dev-main"
+    "thelia/free-order-module": "dev-main"
   },
   "extra": {
       "symfony": {
