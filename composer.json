@@ -11,12 +11,32 @@
     "symfony/flex": "^2.4"
   },
   "extra": {
-      "symfony": {
-          "allow-contrib": true,
-          "endpoint": [
-              "https://api.github.com/repos/YannLe/thelia-test-recipes/contents/index.json?ref=flex/main",
-              "flex://defaults"
-          ]
-      }
+    "symfony": {
+      "allow-contrib": true,
+      "endpoint": [
+        "https://api.github.com/repos/YannLe/thelia-test-recipes/contents/index.json?ref=flex/main",
+        "flex://defaults"
+      ]
+    },
+    "installer-paths": {
+      "vendor/{$vendor}/modules/{$name}": [
+        "type:thelia-module"
+      ],
+      "template/frontOffice/{$name}": [
+        "type:thelia-frontoffice-template"
+      ],
+      "template/backOffice/{$name}": [
+        "type:thelia-backoffice-template"
+      ],
+      "template/email/{$name}": [
+        "type:thelia-email-template"
+      ],
+      "template/pdf/{$name}": [
+        "type:thelia-pdf-template"
+      ],
+      "local/": [
+        "type:thelia-local"
+      ]
+    }
   }
 }
