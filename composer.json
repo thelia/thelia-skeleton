@@ -3,7 +3,7 @@
   "description": "Skeleton that contains required packages for Thelia",
   "license": "LGPL-3.0+",
   "require": {
-    "thelia/core": "dev-api",
+    "thelia/core": "dev-api-maintenance",
     "thelia/frontoffice-default-template": "dev-api",
     "thelia/backoffice-default-template": "dev-api",
     "thelia/email-default-template": "dev-api",
