@@ -2,6 +2,8 @@
   "name": "thelia/thelia-skeleton",
   "description": "Skeleton that contains required packages for Thelia",
   "license": "LGPL-3.0+",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "thelia/core": "dev-api-maintenance",
     "thelia/frontoffice-default-template": "dev-api",
