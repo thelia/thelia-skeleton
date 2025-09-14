@@ -13,6 +13,7 @@
   "extra": {
     "symfony": {
       "allow-contrib": true,
+      "require": "6.4.*",
       "endpoint": [
         "https://api.github.com/repos/YannLe/thelia-test-recipes/contents/index.json?ref=flex/main",
         "flex://defaults"
