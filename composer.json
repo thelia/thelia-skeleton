@@ -14,7 +14,7 @@
     "thelia/front-module": "2.6.0",
     "thelia/virtual-product-control-module": "2.6.0",
     "thelia/virtual-product-delivery-module": "2.6.0",
-    "thelia/tinymce-module": "2.6.0",
+    "thelia/tinymce-module": "2.6.1",
     "thelia/cheque-module": "2.6.0",
     "thelia/hook-lang-module": "2.6.0",
     "thelia/hook-search-module": "2.6.0",
