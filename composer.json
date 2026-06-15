@@ -5,7 +5,6 @@
   "require": {
     "thelia/core": "dev-twig",
     "thelia/flexy": "dev-twig",
-    "thelia/backoffice-default-template": "dev-twig",
     "thelia/backoffice-default-twig-template": "^0.4",
     "thelia/email-default-template": "dev-twig",
     "thelia/pdf-default-template": "dev-twig",
