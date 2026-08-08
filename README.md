@@ -5,7 +5,7 @@ This package lists the parts that make up a Thelia 3 installation: the core, the
 You do not install this package directly. To create a Thelia project, use the project skeleton:
 
 ```bash
-composer create-project thelia/thelia-project:dev-twig my-shop
+composer create-project thelia/thelia-project my-shop
 ```
 
 See [thelia/thelia-project](https://github.com/thelia/thelia-project) for the installation guide, and [thelia/thelia](https://github.com/thelia/thelia) to work on Thelia itself.
