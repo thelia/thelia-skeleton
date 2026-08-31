@@ -3,11 +3,11 @@
   "description": "Skeleton that contains required packages for Thelia",
   "license": "GPL-3.0-or-later",
   "require": {
-    "thelia/core": "^3.0.0-beta1",
-    "thelia/flexy": "^1.0.0-beta1",
-    "thelia/backoffice-default-twig-template": "^1.0.0-beta1",
-    "thelia/email-default-template": "^1.0.0-beta1",
-    "thelia/pdf-default-template": "^1.0.0-beta1",
+    "thelia/core": "^3.0",
+    "thelia/flexy": "^1.0",
+    "thelia/backoffice-default-twig-template": "^1.0",
+    "thelia/email-default-template": "^1.0",
+    "thelia/pdf-default-template": "^1.0",
     "symfony/flex": "^2.4"
   },
   "extra": {
