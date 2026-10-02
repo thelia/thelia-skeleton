@@ -3,9 +3,9 @@
   "description": "Skeleton that contains required packages for Thelia",
   "license": "GPL-3.0-or-later",
   "require": {
-    "thelia/core": "^3.1",
-    "thelia/flexy": "^1.1",
-    "thelia/backoffice-default-twig-template": "^1.1",
+    "thelia/core": "^3.2",
+    "thelia/flexy": "^1.2",
+    "thelia/backoffice-default-twig-template": "^1.2",
     "thelia/email-default-template": "^1.1",
     "thelia/pdf-default-template": "^1.1",
     "thelia/cheque-module": "^3.0",
