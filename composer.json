@@ -19,7 +19,7 @@
     "thelia/rewrite-url-module": "^3.0.9",
     "thelia/sitemap-module": "^3.0.2",
     "thelia/paypal-module": "^6.1",
-    "thelia/stripe-payment-module": "^5.1",
+    "thelia/stripe-payment-module": "^5.1 || ^6.0",
     "thelia/wire-transfer-module": "^2.4",
     "thelia/local-pickup-module": "^3.0.2",
     "thelia/stock-alert-module": "^3.2.1",
